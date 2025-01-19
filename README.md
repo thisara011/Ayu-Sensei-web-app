@@ -36,7 +36,7 @@ Welcome to **Ayu Sensie**, your personalized gateway to Ayurvedic health insight
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/ayu-sensie.git
+   git clone [https://github.com/yourusername/ayu-sensie.git](https://github.com/thisara011/Ayu-Sensei-web-app.git)
    cd ayu-sensie
    ```
 
