@@ -1,0 +1,46 @@
+#imglogo{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin-left: 10px;
+    margin-top: -10px;
+    margin-bottom: -10px;
+}
+
+#btn:hover{
+    background-color: #a81616;
+
+}
+/* Hover effect for links */
+.nav-link.hover-box {
+    position: relative;
+    padding: 20px;
+    transition: all 0.3s ease-in-out;
+  }
+
+  .nav-item {
+    margin: 0 15px; /* Adds 15px spacing to the left and right */
+  }
+  
+  .vertical-line {
+    height: 34px; /* Adjust the height of the line */
+    width: 4px;
+    background-color: #000; /* Change to desired color */
+    margin: 0 10px; /* Spacing around the line */
+  }
+
+  @media (max-width: 768px) {
+    .vertical-line {
+      display: none;
+    }
+  }
+   
+  
+  .nav-link.hover-box:hover {
+    background-color: #ffeb99; /* Change this color as desired */
+    border-radius: 1px; /* Add rounded corners if needed */
+    color: #000 !important; /* Adjust text color on hover */
+    /*box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional: Add shadow */
+    transition: all 0.3s ease-in-out; /* Smooth hover effect */
+  }
+  

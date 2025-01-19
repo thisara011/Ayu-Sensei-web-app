@@ -1,0 +1,17 @@
+.vertical-line {
+    height: 64px; /* Adjust the height of the line */
+    width: 1px;
+    background-color: #000; /* Change to desired color */
+    margin: 0 10px; /* Spacing around the line */
+  }
+
+  .button-card-container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end; /* Push content to the bottom */
+    height: 100%; /* Ensure it takes the full height of the parent card */
+    padding: 10px; /* Optional padding for spacing */
+  }
+  
+
+  

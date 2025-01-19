@@ -1,0 +1,15 @@
+#homecardbtn {
+    text-decoration: none; /* Removes underline */
+    background-color: transparent; /* Transparent background */
+    color: green; /* Text color */
+    border: 2px solid green; /* Green border */
+    padding: 10px; /* Spacing inside the button */
+    border-radius: 10%; /* Rounded corners */
+    transition: all 0.3s ease; /* Smooth hover effect (optional) */
+    
+  }
+  
+#homecardbtn:hover {
+  color: white;
+  background-color: green;
+}
