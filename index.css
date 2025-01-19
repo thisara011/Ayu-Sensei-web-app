@@ -1,0 +1,12 @@
+
+code {
+  font-family: 'Rubik Vinyl', source-code-pro, Menlo, Monaco, Consolas, 
+    'Courier New', monospace;
+}
+body, h1, h2, h3,th,td, p ,h4,a,div,form,textarea,input,select{
+  font-family: 'Space Grotesk', sans-serif !important;
+}
+
+code {
+  font-family: 'Space Grotesk', monospace !important;
+}
