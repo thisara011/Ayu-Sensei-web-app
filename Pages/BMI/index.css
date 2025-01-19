@@ -1,0 +1,28 @@
+/* BMI.css */
+.why-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .why-text {
+    text-align: justify;
+  }
+  
+  .bmi-result {
+    margin-top: 20px;
+    text-align: justify;
+  }
+ 
+  
+  
+  .why-title {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  form input {
+    margin-bottom: 10px;
+  }
+  

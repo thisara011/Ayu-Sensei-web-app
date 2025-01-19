@@ -1,0 +1,53 @@
+.vertical-line {
+    height: 64px; /* Adjust the height of the line */
+    width: 1px;
+    background-color: #000; /* Change to desired color */
+    margin: 0 10px; /* Spacing around the line */
+  }
+
+  .button-card-container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end; /* Push content to the bottom */
+    height: 100%; /* Ensure it takes the full height of the parent card */
+    padding: 10px; /* Optional padding for spacing */
+  }
+  
+
+  .option-button {
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .selected-answer {
+    background-color: #4caf50; /* Green for selected answer */
+    color: white;
+  }
+  
+  .option-button:hover {
+    background-color: #ddd;
+  }
+  .highlighted-text {
+    color: blue;
+    font-weight: bold;
+  }
+  
+  .highlighted-text-green {
+    color: green;
+    font-weight: bold;
+  }
+  
+  .highlighted-text-purple {
+    color: purple;
+    font-weight: bold;
+  }
+  
+  .highlighted-text-red {
+    color: red;
+    font-weight: bold;
+  }
+  
